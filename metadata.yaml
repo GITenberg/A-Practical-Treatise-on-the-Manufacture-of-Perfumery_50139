@@ -1,15 +1,21 @@
 _repo: A-Practical-Treatise-on-the-Manufacture-of-Perfumery_50139
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Brannt, William T.
     gutenberg_agent_id: '45720'
     url: http://www.gutenberg.org/2009/agents/45720
+covers:
+- cover_type: archival
+  image_path: 50139-h/images/cover.jpg
 creator:
   author:
     agent_name: Deite, C.
     gutenberg_agent_id: '45719'
     url: http://www.gutenberg.org/2009/agents/45719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50139#A-Practical-Treatise-on-the-Manufacture-of-Perfumery
 gutenberg_issued: '2015-10-06'
 gutenberg_type: Text
 identifiers:
